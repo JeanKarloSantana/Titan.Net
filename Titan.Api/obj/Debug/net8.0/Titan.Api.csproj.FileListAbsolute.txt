@@ -63,3 +63,15 @@ C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\refint\Titan.Api.dll
 C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\Titan.Api.pdb
 C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\Titan.Api.genruntimeconfig.cache
 C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\ref\Titan.Api.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Api.staticwebassets.endpoints.json
+C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\staticwebassets\msbuild.Titan.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\projects\.net\Titan.Net\Titan.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Contracts.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Contracts.pdb
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Application.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Domain.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Presentation.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Application.pdb
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Presentation.pdb
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Domain.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Titan.Contracts/1.0.0": {
+        "runtime": {
+          "Titan.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Titan.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

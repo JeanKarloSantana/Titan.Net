@@ -1,0 +1,12 @@
+C:\projects\.net\Titan.Net\Titan.Domain\bin\Debug\net8.0\Titan.Domain.deps.json
+C:\projects\.net\Titan.Net\Titan.Domain\bin\Debug\net8.0\Titan.Domain.dll
+C:\projects\.net\Titan.Net\Titan.Domain\bin\Debug\net8.0\Titan.Domain.pdb
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.AssemblyInfoInputs.cache
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.AssemblyInfo.cs
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.csproj.CoreCompileInputs.cache
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.sourcelink.json
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.dll
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\refint\Titan.Domain.dll
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\Titan.Domain.pdb
+C:\projects\.net\Titan.Net\Titan.Domain\obj\Debug\net8.0\ref\Titan.Domain.dll

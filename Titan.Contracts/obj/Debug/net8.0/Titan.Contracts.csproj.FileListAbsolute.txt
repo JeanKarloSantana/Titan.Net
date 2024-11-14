@@ -1,0 +1,12 @@
+C:\projects\.net\Titan.Net\Titan.Contracts\bin\Debug\net8.0\Titan.Contracts.deps.json
+C:\projects\.net\Titan.Net\Titan.Contracts\bin\Debug\net8.0\Titan.Contracts.dll
+C:\projects\.net\Titan.Net\Titan.Contracts\bin\Debug\net8.0\Titan.Contracts.pdb
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.AssemblyInfoInputs.cache
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.AssemblyInfo.cs
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.csproj.CoreCompileInputs.cache
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.sourcelink.json
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.dll
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\refint\Titan.Contracts.dll
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\Titan.Contracts.pdb
+C:\projects\.net\Titan.Net\Titan.Contracts\obj\Debug\net8.0\ref\Titan.Contracts.dll

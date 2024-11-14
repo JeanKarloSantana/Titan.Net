@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Titan.Domain", "Titan.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Titan.Presentation", "Titan.Presentation\Titan.Presentation.csproj", "{7F2167E7-2481-466F-9124-D1AE189CD184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Titan.Contracts", "Titan.Contracts\Titan.Contracts.csproj", "{97674EC0-4990-4D54-9268-4356890D076F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7F2167E7-2481-466F-9124-D1AE189CD184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F2167E7-2481-466F-9124-D1AE189CD184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F2167E7-2481-466F-9124-D1AE189CD184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97674EC0-4990-4D54-9268-4356890D076F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97674EC0-4990-4D54-9268-4356890D076F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97674EC0-4990-4D54-9268-4356890D076F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97674EC0-4990-4D54-9268-4356890D076F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
