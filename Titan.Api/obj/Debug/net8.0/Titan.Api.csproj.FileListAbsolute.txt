@@ -75,3 +75,8 @@ C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Presentation.dll
 C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Application.pdb
 C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Presentation.pdb
 C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Domain.pdb
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Infrastructure.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\Titan.Infrastructure.pdb
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\MediatR.dll
+C:\projects\.net\Titan.Net\Titan.Api\bin\Debug\net8.0\MediatR.Contracts.dll

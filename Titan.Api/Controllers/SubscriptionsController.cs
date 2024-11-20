@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using MediatR;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Titan.Application.Commands.CreateSubscription;
 using Titan.Application.Services;
 using Titan.Contracts.Subscriptions;
 
@@ -9,19 +11,21 @@ namespace Titan.Api.Controllers
     [ApiController]
     public class SubscriptionsController : ControllerBase
     {
-        private readonly ISubscriptionsService _subscriptionsService;
+        private readonly ISender _mediator;
 
-        public SubscriptionsController(ISubscriptionsService subscriptionService)
+        public SubscriptionsController(ISender mediator)
         {
-            _subscriptionsService = subscriptionService;
+            _mediator = mediator;
         }
 
         [HttpPost]
-        public IActionResult CreateSubscription(CreateSubscriptionRequest request)
+        public async Task<IActionResult> CreateSubscription(CreateSubscriptionRequest request)
         {
-            var subscriptionId = _subscriptionsService.CreateSubscription(
-                request.SubscriptionType.ToString(),
+            var command = new CreateSubscriptionCommand(
+                request.SubscriptionType.ToString(), 
                 request.AdminId);
+
+            var subscriptionId = await _mediator.Send(command);
 
             var response = new SubscriptionResponse(
                 subscriptionId, 
