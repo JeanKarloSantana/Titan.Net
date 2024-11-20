@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "h8ejd4RaWL+iDkdBnwif3Ur8Wvdfo1PZoD4IApVpIB4=",
+  "Hash": "lklyUui22RwBg3Mpg+D/LjE/Sd7lOdjoSUkgTr3VZYM=",
   "Source": "Titan.Api",
   "BasePath": "_content/Titan.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
