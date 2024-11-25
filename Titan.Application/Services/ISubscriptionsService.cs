@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Titan.Application.Services
 {
-    public interface ISubscriptionsService
+    public interface ISubscriptionsWriteService
     {
         Guid CreateSubscription(string subscriptionType, Guid adminId);
     }
