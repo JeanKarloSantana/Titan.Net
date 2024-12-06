@@ -11,11 +11,11 @@ namespace Titan.Api.Controllers
     [ApiController]
     public class SubscriptionsController : ControllerBase
     {
-        private readonly ISender _mediator;
+        private readonly ISender _med;
 
         public SubscriptionsController(ISender mediator)
         {
-            _mediator = mediator;
+            _med = mediator;
         }
 
         [HttpPost]
@@ -25,7 +25,7 @@ namespace Titan.Api.Controllers
                 request.SubscriptionType.ToString(), 
                 request.AdminId);
 
-            var subscriptionId = await _mediator.Send(command);
+            var subscriptionId = await _med.Send(command);
 
             var response = new SubscriptionResponse(
                 subscriptionId, 
